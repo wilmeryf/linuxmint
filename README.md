@@ -1,4 +1,4 @@
-![GitHub License](https://img.shields.io/github/license/wilmeryf/lab-redes-01?style=for-the-badge) -
+![GitHub License](https://img.shields.io/github/license/wilmeryf/linux-pratica?style=for-the-badge) -
 ![Linux](https://img.shields.io/badge/Linux-Prática_Básica-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 # Linux Mint - Prática
